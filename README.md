@@ -49,22 +49,7 @@ Contact me for new projects 📨, I am open to collaborate with you<br/><br/>
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](http://www.linkedin.com/in/shrawans)
 - 🎷 &nbsp; In my free time, I love listening to my favourite music
 
-<br><br><br>
-
-<!-- languajes and skills section -->
-<br><br><br>
-<h1 align="center"> Languages/Frameworks I'm good at: </h1>
-<p align="center">
-<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
-  <code><a href="https://www.tensorflow.org/"><img alt="Tensorflow" title="Tensorflow" src="./assets/tf.png" height="42"></a></code>
-  <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
-  <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
-  <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="Fast API" src="./assets/fast_api.png" height="42"></a></code>
-  <code><a href=""><img alt="Github" title="Github" src="./assets/github.png" height="42"></a></code>
-  <code><a href="https://streamlit.io/"><img alt="Streamlit" title="Streamlit" src="./assets/streamlit.png" height="42"></a></code>
-  <code><a href="https://plotly.com/dash/"><img alt="Plotly Dash" title="Plotly Dash" src="./assets/dash_plotly.png" height="42"></a></code>
-</p>
-<br>
+<br><br>
 <br>
 <!-- GitHub stats section -->
 
@@ -76,6 +61,18 @@ Contact me for new projects 📨, I am open to collaborate with you<br/><br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrawanSai&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br/>
 
+</p>
+<br><br><br>
+<h1 align="center"> Languages/Frameworks I'm good at: </h1>
+<p align="center">
+<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
+  <code><a href="https://www.tensorflow.org/"><img alt="Tensorflow" title="Tensorflow" src="./assets/tf.png" height="42"></a></code>
+  <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
+  <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
+  <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="Fast API" src="./assets/fast_api.png" height="42"></a></code>
+  <code><a href=""><img alt="Github" title="Github" src="./assets/github.png" height="42"></a></code>
+  <code><a href="https://streamlit.io/"><img alt="Streamlit" title="Streamlit" src="./assets/streamlit.png" height="42"></a></code>
+  <code><a href="https://plotly.com/dash/"><img alt="Plotly Dash" title="Plotly Dash" src="./assets/dash_plotly.png" height="42"></a></code>
 </p>
 <br>
 <h1 align="center"> Languages/Frameworks I'm learning: </h1>
