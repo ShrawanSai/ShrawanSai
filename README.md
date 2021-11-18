@@ -30,9 +30,8 @@ ur welcome ;)
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
-Eyyyy!!! <br />
-I am <b>Shrawan Sai Malyala</b> <br />
-I am from <strong>Hyderabad, India</strong> <br />
+Hey! <br />
+I am <b>Shrawan Sai Malyala</b> from <strong>Hyderabad, India</strong><br />
 I'm a recent graduate from VIT Vellore from where I have done my bachelor's in computer science. <br />
 I really love developing software that involves Machine Learning and AI. Natural Language Processing is my favourite field of techonology <br />
 I currently work in Novartis healthcare as a full stack developer in the Medical Imaging team<br />
@@ -89,13 +88,12 @@ I currently work in Novartis healthcare as a full stack developer in the Medical
 
 ## 📊 Github stats
 
-<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ShrawanSai&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ShrawanSai&hide=contribs,prs&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrawanSai&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 </p>
 
 
