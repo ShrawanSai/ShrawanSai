@@ -8,7 +8,7 @@ There i made and page with the GIF content, later i record my screen with OBS
 after that i converter the video from mp4 to gif
 ur welcome ;) 
 -->
-<a href="https://github.com/DavidsDvm">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
+<a href="https://github.com/ShrawanSai/">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
@@ -48,7 +48,7 @@ I currently work in Novartis healthcare as a full stack developer in the Medical
 - 🤝 &nbsp; I’m looking to collaborate on Open Source Projects
 - 🌱 &nbsp; I’m currently learning Pytorch; 
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](http://www.linkedin.com/in/shrawans)
-- 🎷 &nbsp; When I am free, I listen to my favourite music
+- 🎷 &nbsp; In my free time, I love listening to my favourite music
 
 <br><br><br>
 
