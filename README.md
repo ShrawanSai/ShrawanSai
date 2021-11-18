@@ -65,7 +65,19 @@ Contact me for new projects 📨, I am open to collaborate with you<br/><br/>
   <code><a href="https://plotly.com/dash/"><img alt="Plotly Dash" title="Plotly Dash" src="./assets/dash_plotly.png" height="42"></a></code>
 </p>
 <br>
+<br>
+<!-- GitHub stats section -->
 
+## 📊 Github stats
+
+<p align="center">
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ShrawanSai&hide=contribs,prs&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrawanSai&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <br/>
+
+</p>
+<br>
 <h1 align="center"> Languages/Frameworks I'm learning: </h1>
 <p align="center">
   <code><a href="https://flutter.dev/"><img alt="Flutter" title="Flutter" src="./assets/flutter.png" height="42"></a></code>
@@ -83,16 +95,20 @@ Contact me for new projects 📨, I am open to collaborate with you<br/><br/>
 </p>
 <br>
 
-<!-- GitHub stats section -->
+<br>
 
-## 📊 Github stats
-
+<h1 align="center"> My Certifications and courses: </h1>
 <p align="center">
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ShrawanSai&hide=contribs,prs&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrawanSai&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <br/>
-
+  <code><a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">AWS Certified Cloud Practitioner (03/2020 – 03/2023)</a></code>
+  <code>Microsoft Technology Associate for Python Programming (2018)</code>
+  <code>Completed course on “Linux for Developers” on, Coursera (2021)</code>
+  <code>Completed course on “TensorFlow for Artificial Intelligence and Deep Learning” on, Coursera (2020)</code>
+  <code>Completed course on “Full Stack Website Development with Django” on Udemy (2020)</code>
+  <code>Completed course on “Modern Natural Language Processing” in Udemy (2020)</code>
+  <code>Applied Machine Learning with Python- VIT Value Added Program (2019)</code>
+  
 </p>
+<br>
+
 
 
