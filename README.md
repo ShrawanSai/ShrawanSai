@@ -99,13 +99,15 @@ Contact me for new projects 📨, I am open to collaborate with you<br/><br/>
 
 <h1 align="center"> My Certifications and courses: </h1>
 <p align="center">
-  <code><a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">AWS Certified Cloud Practitioner (03/2020 – 03/2023)</a></code>
-  <code>Microsoft Technology Associate for Python Programming (2018)</code>
-  <code>Completed course on “Linux for Developers” on, Coursera (2021)</code>
-  <code>Completed course on “TensorFlow for Artificial Intelligence and Deep Learning” on, Coursera (2020)</code>
-  <code>Completed course on “Full Stack Website Development with Django” on Udemy (2020)</code>
-  <code>Completed course on “Modern Natural Language Processing” in Udemy (2020)</code>
-  <code>Applied Machine Learning with Python- VIT Value Added Program (2019)</code>
+  <ul>
+  <li><a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">AWS Certified Cloud Practitioner (03/2020 – 03/2023)</a></li>
+  <li>Microsoft Technology Associate for Python Programming (2018)</li>
+  <li>Completed course on “Linux for Developers” on, Coursera (2021)</li>
+  <li>Completed course on “TensorFlow for Artificial Intelligence and Deep Learning” on, Coursera (2020)</li>
+  <li>Completed course on “Full Stack Website Development with Django” on Udemy (2020)</li>
+  <li>Completed course on “Modern Natural Language Processing” in Udemy (2020)</li>
+  <li>Applied Machine Learning with Python- VIT Value Added Program (2019)</li>
+  </ul>
   
 </p>
 <br>
