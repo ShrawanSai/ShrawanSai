@@ -1,17 +1,8 @@
-<!-- 
-GIF SECTION
 
-If you wanna know how i made this gif
-
-I made this with my repo: (https://github.com/DavidsDvm/GitHub_ProfileReadmeGIF)
-There i made and page with the GIF content, later i record my screen with OBS
-after that i converter the video from mp4 to gif
-ur welcome ;) 
--->
 <a href="https://github.com/ShrawanSai/">![Profile GIF](./assets/profile_presentation.gif)</a>
 
 <!-- Social icons section -->
-<h1 align="center"> Social Media: </h1>
+<h1 align="center"> My Social Media: </h1>
   <p align="center">
     <a href="https://twitter.com/shrawan06494046">
       <img src="https://img.shields.io/badge/twitter-7cebf5?&style=for-the-badge&logo=twitter&logoColor=black">
@@ -35,7 +26,7 @@ I am <b>Shrawan Sai Malyala</b> from <strong>Hyderabad, India</strong><br />
 I'm a recent graduate from Vellore Institute of Technology from where I have done my bachelor's in computer science. <br />
 I really love developing software that involves Machine Learning and AI. Natural Language Processing is my favourite field of techonology <br />
 I currently work in Novartis Healthcare as a full stack developer in the Medical Imaging team<br />
-Contact me for new projects 📨, I am open to collaborate with you<br/><br/> 
+Contact me for new projects 📨, I am open for collaborations<br/><br/> 
 
 
 
