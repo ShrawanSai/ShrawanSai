@@ -8,7 +8,7 @@ There i made and page with the GIF content, later i record my screen with OBS
 after that i converter the video from mp4 to gif
 ur welcome ;) 
 -->
-<a href="https://github.com/ShrawanSai/">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
+<a href="https://github.com/ShrawanSai/">![Profile GIF](./assets/profile_presentation.gif)height="100"</a>
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
@@ -32,11 +32,10 @@ ur welcome ;)
 
 Hey! <br />
 I am <b>Shrawan Sai Malyala</b> from <strong>Hyderabad, India</strong><br />
-I'm a recent graduate from VIT Vellore from where I have done my bachelor's in computer science. <br />
+I'm a recent graduate from Vellore Institute of Technology from where I have done my bachelor's in computer science. <br />
 I really love developing software that involves Machine Learning and AI. Natural Language Processing is my favourite field of techonology <br />
-I currently work in Novartis healthcare as a full stack developer in the Medical Imaging team<br />
-<sup>Contact me for new projects 📨, I am open to collaborate with you</sup>
-<br/><br/> 
+I currently work in Novartis Healthcare as a full stack developer in the Medical Imaging team<br />
+Contact me for new projects 📨, I am open to collaborate with you<br/><br/> 
 
 
 
