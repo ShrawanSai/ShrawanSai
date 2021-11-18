@@ -8,7 +8,7 @@ There i made and page with the GIF content, later i record my screen with OBS
 after that i converter the video from mp4 to gif
 ur welcome ;) 
 -->
-<a href="https://github.com/ShrawanSai/">![Profile GIF](./assets/profile_presentation.gif)height="100"</a>
+<a href="https://github.com/ShrawanSai/">![Profile GIF](./assets/profile_presentation.gif)</a>
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
@@ -52,7 +52,7 @@ Contact me for new projects 📨, I am open to collaborate with you<br/><br/>
 <br><br><br>
 
 <!-- languajes and skills section -->
-
+<br><br><br>
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
 <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
