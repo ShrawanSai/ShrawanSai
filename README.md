@@ -23,9 +23,9 @@
 
 Hey! <br />
 I am <b>Shrawan Sai Malyala</b> from <strong>Hyderabad, India</strong><br />
-I'm a recent graduate from Vellore Institute of Technology from where I have done my bachelor's in computer science. <br />
+I'm a graduate from Vellore Institute of Technology from where I have done my bachelor's in computer science. <br />
 I really love developing software that involves Machine Learning and AI. Natural Language Processing is my favourite field of techonology <br />
-I currently work in Novartis Healthcare as a full stack developer in the Medical Imaging team<br />
+I currently work in Novartis Healthcare as a Business Solutions Delivery Specialist as part of the Medical and Digital team <br />
 Contact me for new projects 📨, I am open for collaborations<br/><br/> 
 
 
@@ -34,11 +34,11 @@ Contact me for new projects 📨, I am open for collaborations<br/><br/>
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Autoencoders for Medical Images**
+- 🔭 &nbsp; I’m currently working on **Building comprehensive Knowledge Graphs with advanced text mining**
 - 🤝 &nbsp; I’m looking to collaborate on Open Source Projects
-- 🌱 &nbsp; I’m currently learning Pytorch; 
+- 🌱 &nbsp; I’m currently learning how to extract Entity Relations; 
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](http://www.linkedin.com/in/shrawans)
-- 🎷 &nbsp; In my free time, I love listening to my favourite music
+- 🎷 &nbsp; In my free time, I love listening to music by the Weeknd
 
 <br><br>
 <br>
