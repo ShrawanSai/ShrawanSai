@@ -23,9 +23,9 @@
 
 Hey! <br />
 I am <b>Shrawan Sai Malyala</b> from <strong>Hyderabad, India</strong><br />
-I'm a graduate from Vellore Institute of Technology from where I have done my bachelor's in computer science. <br />
+I am a master's student in Concordia University pursuing Applied Computer Science. I have done my bachelor's in computer science from Vellore Institute of Technology  <br />
 I really love developing software that involves Machine Learning and AI. Natural Language Processing is my favourite field of techonology <br />
-I currently work in Novartis Healthcare as a Business Solutions Delivery Specialist as part of the Medical and Digital team <br />
+I used to work in Novartis Healthcare as a Business Solutions Delivery Specialist as part of Digital Trial Operations team. <br />
 Contact me for new projects 📨, I am open for collaborations<br/><br/> 
 
 
