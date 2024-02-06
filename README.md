@@ -34,7 +34,7 @@ Contact me for new projects 📨, I am open for collaborations<br/><br/>
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Building comprehensive Knowledge Graphs with advanced text mining**
+- 🔭 &nbsp; I’m currently working on **Building Intelligent Systems**
 - 🤝 &nbsp; I’m looking to collaborate on Open Source Projects
 - 🌱 &nbsp; I’m currently learning how to extract Entity Relations; 
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](http://www.linkedin.com/in/shrawans)
@@ -64,13 +64,13 @@ Contact me for new projects 📨, I am open for collaborations<br/><br/>
   <code><a href=""><img alt="Github" title="Github" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://streamlit.io/"><img alt="Streamlit" title="Streamlit" src="./assets/streamlit.png" height="42"></a></code>
   <code><a href="https://plotly.com/dash/"><img alt="Plotly Dash" title="Plotly Dash" src="./assets/dash_plotly.png" height="42"></a></code>
+  <code><a href="https://pytorch.org/"><img alt="Pytorch" title="Pytorch" src="./assets/pytorch.png" height="42"></a></code>
 </p>
 <br>
 <h1 align="center"> Languages/Frameworks I'm learning: </h1>
 <p align="center">
   <code><a href="https://flutter.dev/"><img alt="Flutter" title="Flutter" src="./assets/flutter.png" height="42"></a></code>
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
-  <code><a href="https://pytorch.org/"><img alt="Pytorch" title="Pytorch" src="./assets/pytorch.png" height="42"></a></code>
 </p>
 <br>
 
